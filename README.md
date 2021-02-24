@@ -1,4 +1,2 @@
 # enchant-multiplier-injector
-input = in.json
-data = constants.js
-ouput = out.json
+this tool injects itemMultiplier, bookMultiplier into a enchantments.json
